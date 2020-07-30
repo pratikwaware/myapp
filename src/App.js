@@ -56,6 +56,10 @@ function App() {
     {
       text: "Deploy app",
       isCompleted: false
+    },
+    {
+      text: "Deploy successfull",
+      isCompleted: false
     }
   ]);
 
