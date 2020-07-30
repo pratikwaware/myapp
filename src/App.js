@@ -54,7 +54,7 @@ function App() {
       isCompleted: false
     },
     {
-      text: "Deploy app",
+      text: "Deploy test",
       isCompleted: false
     },
     {
