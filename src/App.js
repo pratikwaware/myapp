@@ -52,7 +52,7 @@ function App() {
     {
       text: "Build more bigger apps",
       isCompleted: false
-    }
+    },
     {
       text: "Deploy app",
       isCompleted: false
